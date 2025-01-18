@@ -45,13 +45,13 @@ We appreciate your participation in this project. Please review the following ta
    python manage.py migrate --noinput
    ```
 3. Remove all data so that you will have a fresh chat
-   '''bash
+   ```bash
    python manage.py flush
-   '''
+   ```
 4. Run the app
-   '''bash
+   ```bash
    python manage.py runserver
-   '''
+   ```
 
 ---
 
